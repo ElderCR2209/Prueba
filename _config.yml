@@ -1,1 +1,20 @@
+owner: elder # GitHub username
+repo: Prueba # GitHub repository name
+
+sites: # List of endpoints to track
+  - name: Google
+    url: https://www.google.com
+assignees: # Users to assign downtime issues (optional)
+  - elder
+status-website: # Status website (optional)
+  #cname: upptime.js.org # Custom domain CNAME
+  baseUrl: /Prueba
+  name: Upptime # Status website title
+
+
+
+
+
+
+
 theme: jekyll-theme-slate
